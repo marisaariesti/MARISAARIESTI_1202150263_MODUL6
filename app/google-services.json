@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "458510473288",
+    "firebase_url": "https://marisaariesti1202150263modul6.firebaseio.com",
+    "project_id": "marisaariesti1202150263modul6",
+    "storage_bucket": "marisaariesti1202150263modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458510473288:android:22465ae5617e6988",
+        "android_client_info": {
+          "package_name": "com.example.marisaariesti.marisaariesti_1202150263_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458510473288-0qhots44l126kb7964ilhurasiruhkc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marisaariesti.marisaariesti_1202150263_modul6",
+            "certificate_hash": "10f869174fceaf37c3d2b7b68cd0f793ae0d78cc"
+          }
+        },
+        {
+          "client_id": "458510473288-75lcdmtn4gcbr7dptiu33epufisbkvi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9v8LBLNOAfA9lJBr-jjRl8iZ_9GkVIbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458510473288-75lcdmtn4gcbr7dptiu33epufisbkvi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
